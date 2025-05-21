@@ -227,6 +227,18 @@ footer {
   display: flex;
   flex-wrap: wrap;
 }
+@media screen and (max-width: 2560px){
+  .login-container{
+    margin: 278px auto;
+  }
+
+}
+@media screen and (max-width: 1920px){
+  .login-container{
+    margin: 80px auto;
+  }
+}
+
 @media screen and (max-width: 1178px){
   .logo2 {
   margin: 0 350px 30px 0;
