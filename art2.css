@@ -209,6 +209,9 @@ footer {
 .footer-sns ul li a {
   display: block;
 }
+.footer-sns ul li:nth-child(3) {
+  padding-top: 5px;
+}
 .footer-sns img {
   display: block;
   height: auto;
